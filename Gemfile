@@ -53,3 +53,4 @@ gem "httparty", "~> 0.16.2"
 group :production do
   gem 'pg'
 end
+gem 'pg'
