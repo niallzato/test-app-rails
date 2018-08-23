@@ -45,3 +45,7 @@ group :development do
   gem 'spring'
 end
 
+
+
+# Added at 2018-08-22 18:13:23 +0100 by niallbrennan:
+gem "httparty", "~> 0.16.2"
