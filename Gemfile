@@ -51,6 +51,6 @@ end
 gem "httparty", "~> 0.16.2"
 
 group :production do
-  gem 'pg'
+  gem 'pg', '~> 0.20'
   gem 'rails_12factor'
 end
